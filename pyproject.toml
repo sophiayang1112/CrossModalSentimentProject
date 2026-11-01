@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "CrossModalSentimentProject"
+version = "0.1.0"
+description = "Two-stream financial sentiment classification with cross-attention, transformers and factorized bilinear fusion"
+requires-python = ">=3.11"
+dependencies = ["torch>=2.6,<3", "numpy>=1.26,<3", "pandas>=2.2,<4", "scikit-learn>=1.5,<2", "matplotlib>=3.9,<4"]
+
+[project.optional-dependencies]
+bert = ["transformers>=4.45,<6"]
+
+[project.scripts]
+crossmodal-sentiment = "crossmodal_sentiment.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["crossmodal_sentiment*"]

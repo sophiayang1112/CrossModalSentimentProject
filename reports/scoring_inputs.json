@@ -1,0 +1,450 @@
+[
+  {
+    "sample_id": "S0004_0",
+    "company_id": "C0004",
+    "as_of": "2025-06-01T00:00:00+00:00",
+    "recency": [
+      {
+        "opinion_id": "S0004_0_recency_0",
+        "text": "Company reports margin expansion in the quarterly business update.",
+        "published_at": "2025-05-31T20:00:00+00:00",
+        "available_at": "2025-05-31T21:00:00+00:00",
+        "engagement": 438,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0004_0_recency_2",
+        "text": "Company reports strong cash flow in the quarterly business update.",
+        "published_at": "2025-05-26T15:00:00+00:00",
+        "available_at": "2025-05-26T16:00:00+00:00",
+        "engagement": 393,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0004_0_recency_1",
+        "text": "Company reports cash pressure in the quarterly business update.",
+        "published_at": "2025-05-22T07:00:00+00:00",
+        "available_at": "2025-05-22T08:00:00+00:00",
+        "engagement": 125,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      }
+    ],
+    "popularity": [
+      {
+        "opinion_id": "S0004_0_popularity_0",
+        "text": "Investors discuss routine filing; market reaction remains in focus.",
+        "published_at": "2025-05-24T18:00:00+00:00",
+        "available_at": "2025-05-24T19:00:00+00:00",
+        "engagement": 479,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0004_0_popularity_2",
+        "text": "Investors discuss routine filing; market reaction remains in focus.",
+        "published_at": "2025-05-24T00:00:00+00:00",
+        "available_at": "2025-05-24T01:00:00+00:00",
+        "engagement": 206,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0004_0_popularity_3",
+        "text": "Investors discuss steady operations; market reaction remains in focus.",
+        "published_at": "2025-05-25T10:00:00+00:00",
+        "available_at": "2025-05-25T11:00:00+00:00",
+        "engagement": 198,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0004_0_popularity_1",
+        "text": "Investors discuss routine filing; market reaction remains in focus.",
+        "published_at": "2025-05-28T00:00:00+00:00",
+        "available_at": "2025-05-28T01:00:00+00:00",
+        "engagement": 167,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "sample_id": "S0004_1",
+    "company_id": "C0004",
+    "as_of": "2025-07-01T00:00:00+00:00",
+    "recency": [
+      {
+        "opinion_id": "S0004_1_recency_0",
+        "text": "Company reports mixed outlook in the quarterly business update.",
+        "published_at": "2025-06-30T00:00:00+00:00",
+        "available_at": "2025-06-30T01:00:00+00:00",
+        "engagement": 156,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0004_1_recency_3",
+        "text": "Company reports mixed outlook in the quarterly business update.",
+        "published_at": "2025-06-29T17:00:00+00:00",
+        "available_at": "2025-06-29T18:00:00+00:00",
+        "engagement": 138,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0004_1_recency_2",
+        "text": "Company reports margin contraction in the quarterly business update.",
+        "published_at": "2025-06-23T09:00:00+00:00",
+        "available_at": "2025-06-23T10:00:00+00:00",
+        "engagement": 422,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0004_1_recency_1",
+        "text": "Company reports steady operations in the quarterly business update.",
+        "published_at": "2025-06-21T21:00:00+00:00",
+        "available_at": "2025-06-21T22:00:00+00:00",
+        "engagement": 271,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      }
+    ],
+    "popularity": [
+      {
+        "opinion_id": "S0004_1_popularity_1",
+        "text": "Investors discuss margin contraction; market reaction remains in focus.",
+        "published_at": "2025-06-26T06:00:00+00:00",
+        "available_at": "2025-06-26T07:00:00+00:00",
+        "engagement": 438,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0004_1_popularity_0",
+        "text": "Investors discuss earnings decline; market reaction remains in focus.",
+        "published_at": "2025-06-26T07:00:00+00:00",
+        "available_at": "2025-06-26T08:00:00+00:00",
+        "engagement": 333,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "sample_id": "S0007_0",
+    "company_id": "C0007",
+    "as_of": "2025-06-01T00:00:00+00:00",
+    "recency": [
+      {
+        "opinion_id": "S0007_0_recency_1",
+        "text": "Company reports guidance unchanged in the quarterly business update.",
+        "published_at": "2025-05-28T14:00:00+00:00",
+        "available_at": "2025-05-28T15:00:00+00:00",
+        "engagement": 268,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0007_0_recency_0",
+        "text": "Company reports guidance unchanged in the quarterly business update.",
+        "published_at": "2025-05-28T09:00:00+00:00",
+        "available_at": "2025-05-28T10:00:00+00:00",
+        "engagement": 103,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0007_0_recency_3",
+        "text": "Company reports routine filing in the quarterly business update.",
+        "published_at": "2025-05-24T22:00:00+00:00",
+        "available_at": "2025-05-24T23:00:00+00:00",
+        "engagement": 148,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0007_0_recency_4",
+        "text": "Company reports guidance unchanged in the quarterly business update.",
+        "published_at": "2025-05-23T22:00:00+00:00",
+        "available_at": "2025-05-23T23:00:00+00:00",
+        "engagement": 138,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0007_0_recency_2",
+        "text": "Company reports demand weakness in the quarterly business update.",
+        "published_at": "2025-05-22T23:00:00+00:00",
+        "available_at": "2025-05-23T00:00:00+00:00",
+        "engagement": 81,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      }
+    ],
+    "popularity": [
+      {
+        "opinion_id": "S0007_0_popularity_0",
+        "text": "Investors discuss demand weakness; market reaction remains in focus.",
+        "published_at": "2025-05-25T21:00:00+00:00",
+        "available_at": "2025-05-25T22:00:00+00:00",
+        "engagement": 402,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0007_0_popularity_1",
+        "text": "Investors discuss earnings decline; market reaction remains in focus.",
+        "published_at": "2025-05-23T23:00:00+00:00",
+        "available_at": "2025-05-24T00:00:00+00:00",
+        "engagement": 294,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "sample_id": "S0007_1",
+    "company_id": "C0007",
+    "as_of": "2025-07-01T00:00:00+00:00",
+    "recency": [
+      {
+        "opinion_id": "S0007_1_recency_0",
+        "text": "Company reports earnings growth in the quarterly business update.",
+        "published_at": "2025-06-29T14:00:00+00:00",
+        "available_at": "2025-06-29T15:00:00+00:00",
+        "engagement": 489,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0007_1_recency_2",
+        "text": "Company reports demand recovery in the quarterly business update.",
+        "published_at": "2025-06-28T13:00:00+00:00",
+        "available_at": "2025-06-28T14:00:00+00:00",
+        "engagement": 363,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0007_1_recency_1",
+        "text": "Company reports demand recovery in the quarterly business update.",
+        "published_at": "2025-06-21T15:00:00+00:00",
+        "available_at": "2025-06-21T16:00:00+00:00",
+        "engagement": 251,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      }
+    ],
+    "popularity": [
+      {
+        "opinion_id": "S0007_1_popularity_0",
+        "text": "Investors discuss routine filing; market reaction remains in focus.",
+        "published_at": "2025-06-26T03:00:00+00:00",
+        "available_at": "2025-06-26T04:00:00+00:00",
+        "engagement": 84,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "sample_id": "S0014_0",
+    "company_id": "C0014",
+    "as_of": "2025-06-01T00:00:00+00:00",
+    "recency": [
+      {
+        "opinion_id": "S0014_0_recency_0",
+        "text": "Company reports steady operations in the quarterly business update.",
+        "published_at": "2025-05-29T07:00:00+00:00",
+        "available_at": "2025-05-29T08:00:00+00:00",
+        "engagement": 473,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0014_0_recency_1",
+        "text": "Company reports guidance unchanged in the quarterly business update.",
+        "published_at": "2025-05-24T20:00:00+00:00",
+        "available_at": "2025-05-24T21:00:00+00:00",
+        "engagement": 5,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0014_0_recency_2",
+        "text": "Company reports routine filing in the quarterly business update.",
+        "published_at": "2025-05-23T06:00:00+00:00",
+        "available_at": "2025-05-23T07:00:00+00:00",
+        "engagement": 10,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      }
+    ],
+    "popularity": [
+      {
+        "opinion_id": "S0014_0_popularity_0",
+        "text": "Investors discuss cash pressure; market reaction remains in focus.",
+        "published_at": "2025-05-30T00:00:00+00:00",
+        "available_at": "2025-05-30T01:00:00+00:00",
+        "engagement": 445,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "sample_id": "S0014_1",
+    "company_id": "C0014",
+    "as_of": "2025-07-01T00:00:00+00:00",
+    "recency": [
+      {
+        "opinion_id": "S0014_1_recency_1",
+        "text": "Company reports mixed outlook in the quarterly business update.",
+        "published_at": "2025-06-29T06:00:00+00:00",
+        "available_at": "2025-06-29T07:00:00+00:00",
+        "engagement": 200,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0014_1_recency_2",
+        "text": "Company reports guidance unchanged in the quarterly business update.",
+        "published_at": "2025-06-25T05:00:00+00:00",
+        "available_at": "2025-06-25T06:00:00+00:00",
+        "engagement": 31,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0014_1_recency_0",
+        "text": "Company reports routine filing in the quarterly business update.",
+        "published_at": "2025-06-24T22:00:00+00:00",
+        "available_at": "2025-06-24T23:00:00+00:00",
+        "engagement": 202,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      }
+    ],
+    "popularity": [
+      {
+        "opinion_id": "S0014_1_popularity_1",
+        "text": "Investors discuss routine filing; market reaction remains in focus.",
+        "published_at": "2025-06-22T07:00:00+00:00",
+        "available_at": "2025-06-22T08:00:00+00:00",
+        "engagement": 450,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0014_1_popularity_2",
+        "text": "Investors discuss routine filing; market reaction remains in focus.",
+        "published_at": "2025-06-25T05:00:00+00:00",
+        "available_at": "2025-06-25T06:00:00+00:00",
+        "engagement": 419,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0014_1_popularity_0",
+        "text": "Investors discuss mixed outlook; market reaction remains in focus.",
+        "published_at": "2025-06-21T22:00:00+00:00",
+        "available_at": "2025-06-21T23:00:00+00:00",
+        "engagement": 402,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "sample_id": "S0020_0",
+    "company_id": "C0020",
+    "as_of": "2025-06-01T00:00:00+00:00",
+    "recency": [
+      {
+        "opinion_id": "S0020_0_recency_0",
+        "text": "Company reports cash pressure in the quarterly business update.",
+        "published_at": "2025-05-31T03:00:00+00:00",
+        "available_at": "2025-05-31T04:00:00+00:00",
+        "engagement": 91,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0020_0_recency_1",
+        "text": "Company reports demand weakness in the quarterly business update.",
+        "published_at": "2025-05-30T06:00:00+00:00",
+        "available_at": "2025-05-30T07:00:00+00:00",
+        "engagement": 470,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      }
+    ],
+    "popularity": [
+      {
+        "opinion_id": "S0020_0_popularity_3",
+        "text": "Investors discuss mixed outlook; market reaction remains in focus.",
+        "published_at": "2025-05-28T06:00:00+00:00",
+        "available_at": "2025-05-28T07:00:00+00:00",
+        "engagement": 431,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0020_0_popularity_2",
+        "text": "Investors discuss cash pressure; market reaction remains in focus.",
+        "published_at": "2025-05-24T16:00:00+00:00",
+        "available_at": "2025-05-24T17:00:00+00:00",
+        "engagement": 414,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0020_0_popularity_0",
+        "text": "Investors discuss routine filing; market reaction remains in focus.",
+        "published_at": "2025-05-28T07:00:00+00:00",
+        "available_at": "2025-05-28T08:00:00+00:00",
+        "engagement": 229,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0020_0_popularity_1",
+        "text": "Investors discuss margin expansion; market reaction remains in focus.",
+        "published_at": "2025-05-27T14:00:00+00:00",
+        "available_at": "2025-05-27T15:00:00+00:00",
+        "engagement": 14,
+        "engagement_observed_at": "2025-05-31T23:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "sample_id": "S0020_1",
+    "company_id": "C0020",
+    "as_of": "2025-07-01T00:00:00+00:00",
+    "recency": [
+      {
+        "opinion_id": "S0020_1_recency_2",
+        "text": "Company reports demand recovery in the quarterly business update.",
+        "published_at": "2025-06-29T17:00:00+00:00",
+        "available_at": "2025-06-29T18:00:00+00:00",
+        "engagement": 410,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0020_1_recency_4",
+        "text": "Company reports margin expansion in the quarterly business update.",
+        "published_at": "2025-06-27T06:00:00+00:00",
+        "available_at": "2025-06-27T07:00:00+00:00",
+        "engagement": 187,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0020_1_recency_3",
+        "text": "Company reports earnings growth in the quarterly business update.",
+        "published_at": "2025-06-25T08:00:00+00:00",
+        "available_at": "2025-06-25T09:00:00+00:00",
+        "engagement": 488,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0020_1_recency_1",
+        "text": "Company reports demand recovery in the quarterly business update.",
+        "published_at": "2025-06-24T01:00:00+00:00",
+        "available_at": "2025-06-24T02:00:00+00:00",
+        "engagement": 324,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0020_1_recency_0",
+        "text": "Company reports strong cash flow in the quarterly business update.",
+        "published_at": "2025-06-21T19:00:00+00:00",
+        "available_at": "2025-06-21T20:00:00+00:00",
+        "engagement": 494,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      }
+    ],
+    "popularity": [
+      {
+        "opinion_id": "S0020_1_popularity_0",
+        "text": "Investors discuss demand weakness; market reaction remains in focus.",
+        "published_at": "2025-06-23T23:00:00+00:00",
+        "available_at": "2025-06-24T00:00:00+00:00",
+        "engagement": 318,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      },
+      {
+        "opinion_id": "S0020_1_popularity_1",
+        "text": "Investors discuss cash pressure; market reaction remains in focus.",
+        "published_at": "2025-06-22T09:00:00+00:00",
+        "available_at": "2025-06-22T10:00:00+00:00",
+        "engagement": 246,
+        "engagement_observed_at": "2025-06-30T23:00:00+00:00"
+      }
+    ]
+  }
+]

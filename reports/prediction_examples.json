@@ -1,0 +1,74 @@
+[
+  {
+    "sample_id": "S0004_0",
+    "sentiment": "positive",
+    "probabilities": {
+      "negative": 0.014919801615178585,
+      "neutral": 0.07518632709980011,
+      "positive": 0.9098938703536987
+    }
+  },
+  {
+    "sample_id": "S0004_1",
+    "sentiment": "neutral",
+    "probabilities": {
+      "negative": 0.42288294434547424,
+      "neutral": 0.5239460468292236,
+      "positive": 0.053170956671237946
+    }
+  },
+  {
+    "sample_id": "S0007_0",
+    "sentiment": "neutral",
+    "probabilities": {
+      "negative": 0.3996599316596985,
+      "neutral": 0.5427355766296387,
+      "positive": 0.05760450288653374
+    }
+  },
+  {
+    "sample_id": "S0007_1",
+    "sentiment": "positive",
+    "probabilities": {
+      "negative": 0.01408412680029869,
+      "neutral": 0.07557402551174164,
+      "positive": 0.9103418588638306
+    }
+  },
+  {
+    "sample_id": "S0014_0",
+    "sentiment": "neutral",
+    "probabilities": {
+      "negative": 0.3951891362667084,
+      "neutral": 0.5484433770179749,
+      "positive": 0.05636747181415558
+    }
+  },
+  {
+    "sample_id": "S0014_1",
+    "sentiment": "neutral",
+    "probabilities": {
+      "negative": 0.07169501483440399,
+      "neutral": 0.8659632802009583,
+      "positive": 0.06234177201986313
+    }
+  },
+  {
+    "sample_id": "S0020_0",
+    "sentiment": "negative",
+    "probabilities": {
+      "negative": 0.9487330913543701,
+      "neutral": 0.04115612059831619,
+      "positive": 0.010110871866345406
+    }
+  },
+  {
+    "sample_id": "S0020_1",
+    "sentiment": "positive",
+    "probabilities": {
+      "negative": 0.0625552088022232,
+      "neutral": 0.2801440954208374,
+      "positive": 0.6573006510734558
+    }
+  }
+]
